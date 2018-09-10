@@ -1,6 +1,9 @@
 import os
 import requests
 
+import matplotlib
+matplotlibuse("agg")
+
 import matplotlib.pyplot as plt
 import pandas as pd
 

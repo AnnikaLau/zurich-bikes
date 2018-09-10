@@ -3,5 +3,6 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - numpy=1.14.3
+  - pandas=0.23.4
+  - matplotlib=2.2.3
   - octave_kernel
